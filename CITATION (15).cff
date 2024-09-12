@@ -1,0 +1,54 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: dracor-notebooks
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Frank
+    family-names: Fischer
+    affiliation: Freie Universität Berlin
+    orcid: 'https://orcid.org/0000-0003-2419-6629'
+    email: fr.fischer@fu-berlin.de
+  - given-names: Ingo
+    family-names: Börner
+    affiliation: 'University of Potsdam, Germany'
+    orcid: 'https://orcid.org/0000-0001-8294-2541'
+  - given-names: Robert
+    family-names: Jäschke
+    orcid: 'https://orcid.org/0000-0003-3271-9653'
+    email: robert.jaeschke@hu-berlin.de
+    affiliation: Humboldt-Universität zu Berlin
+  - given-names: Henny
+    family-names: Sluyter-Gäthje
+  - given-names: Carsten
+    family-names: Milling
+    email: cmil@hashtable.de
+  - given-names: Heinz-Alexander
+    family-names: Fuetterer
+    affiliation: Freie Universität Berlin
+  - given-names: Sandra
+    family-names: Densch-Glazov
+repository-code: 'https://github.com/weltliteratur/dracor-notebooks'
+abstract: >-
+  A collection of notebooks to showcase the work with data
+  extracted from DraCor corpora and in particular the DraCor
+  API:
+
+
+  API Tutorial (in progress)
+
+  DraCor-Based reconstruction of our paper "To Catch a
+  Protagonist" (Ingo Börner)
+
+  Stylometric Text Classification (Robert Jäschke)
+
+  Genre Analysis with DraCor (Henny Sluyter-Gäthje)
+
+  Contrastive Text Analsis (Robert Jäschke)
+license: GPL-3.0
+commit: 5d884160038d8466f1b0e1dac8c17343a276dc73
+date-released: '2024-04-12'
